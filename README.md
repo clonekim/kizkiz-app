@@ -14,3 +14,19 @@
 
 ![demo](/imgs/demo.gif)
 
+## 개발환경
+1. 프론트
+-  react-native
+-  react-native-webview
+-  react-native-vector-icons
+-  react-navigation
+-  react-redux
+-  redux
+-  redux-thunk
+  
+  
+2. 서버언어
+- Go 혹은 Crystal
+
+3. 데이터베이스
+-  PostgreSQL OR MongoDB
